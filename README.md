@@ -2,7 +2,7 @@
 
 Este projeto demonstra o uso de três padrões de projeto em Java:
 
-## 🧠 Padrões utilizados
+##  Padrões utilizados
 
 ### Singleton
 Usado para manter uma instância única de configuração global (AppConfig).
@@ -15,7 +15,7 @@ Simplifica o processo de compra através de uma interface única (CheckoutFacade
 
 ---
 
-## 🚀 Como executar
+##  Como executar
 
 1. Abra o projeto no IntelliJ IDEA
 2. Execute a classe Main.java
@@ -23,6 +23,6 @@ Simplifica o processo de compra através de uma interface única (CheckoutFacade
 
 ---
 
-## 💡 Objetivo
+##  Objetivo
 
 Praticar Design Patterns em Java puro, simulando um sistema de checkout simples.
